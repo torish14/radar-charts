@@ -1,15 +1,15 @@
 <template>
   <div>
-    <Loader />
+    <Dialog />
   </div>
 </template>
 
 <script>
-import Loader from '~/components/Loader.vue'
+import Dialog from '~/components/Dialog.vue'
 
 export default {
   components: {
-    Loader
+    Dialog
   }
 }
 </script>
