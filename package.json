@@ -13,10 +13,21 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.8.0",
+    "analyze": "^0.0.14",
     "chart.js": "^2.9.3",
-    "firebase": "^7.5.2",
+    "config": "^3.2.4",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-vue": "^6.1.2",
+    "eslint-scope": "^5.0.0",
+    "firebase": "^7.6.0",
+    "hard-source-webpack-plugin": "^0.13.1",
+    "latest": "^0.2.0",
     "nuxt": "^2.10.2",
-    "vue-chartjs": "^3.5.0"
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-chartjs": "^3.5.0",
+    "webpack": "^4.41.5",
+    "yarn": "^1.21.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",

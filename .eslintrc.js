@@ -13,5 +13,8 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    'no-console': 'off',
+    'no-unused-vars': 'off',
+    'no-global-assign': ['error', {'exceptions': ['self']}]
   }
 }
