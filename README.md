@@ -1,4 +1,4 @@
-# strength-finder-app
+# radar-charts
 
 > My epic Nuxt.js project
 
@@ -21,5 +21,4 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 # radar-charts
-# radar-charts
-# radar-charts
+
