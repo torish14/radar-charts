@@ -68,7 +68,10 @@ export default {
   methods: {
     addData () {
       this.datacollection.labels.push(this.datalabel)
-      this.datacollection.datasets.datasets.data.push(this.dataentry)
+      
+      // this.datacollectionはオブジェクトです。そして、その中に配列であるデータセットがあります。
+      // データセットにはオブジェクトが含まれ、その中のデータは配列です。
+      this.datacollection.datasets[0].data.push(this.dataentry)
       this.datalabel = ''
       this.dataentry = ''
     }
