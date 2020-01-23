@@ -27,7 +27,7 @@ export default {
   data () {
     return {
       datacollection: {
-        labels: ['a', 'b', 'c', 'd', 'e'],
+        labels: ['a', 'b', 'c', 'd', 'e'], // change labels
         datasets: [
           {
             backgroundColor: 'rgba(255, 204, 0, 0.4)',
