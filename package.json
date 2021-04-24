@@ -31,7 +31,7 @@
     "underscore.string": "^3.3.5",
     "vue-chartjs": "^3.5.0",
     "webpack": "^4.41.5",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
